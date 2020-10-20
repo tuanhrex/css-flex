@@ -1,0 +1,26 @@
+.parent {
+    height: 300px;
+    border: 2px solid green;
+
+    display: flex;
+}
+
+.child {
+    background: gold;
+    padding: 5px;
+    color: green;
+    font-weight: bold;
+    font-size: 24px;
+    text-align: center;
+    height: 175px;
+    width: 125px;
+    margin: auto;
+
+
+    /*  */
+}
+
+img {
+    height: 50px;
+    width:50px;
+}
